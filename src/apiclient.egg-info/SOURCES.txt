@@ -1,0 +1,10 @@
+setup.py
+src/apiclient/__init__.py
+src/apiclient.egg-info/PKG-INFO
+src/apiclient.egg-info/SOURCES.txt
+src/apiclient.egg-info/dependency_links.txt
+src/apiclient.egg-info/requires.txt
+src/apiclient.egg-info/top_level.txt
+src/apiclient/core/__init__.py
+src/apiclient/core/client.py
+src/apiclient/core/config.py
